@@ -1,0 +1,28 @@
+[
+  {
+    "id" : 0,
+    "title": "Register Contractor",
+    "fields": [
+      {
+        "name": "name",
+        "type": "text",
+        "label": "Full Name"
+      },
+      {
+        "name": "Email",
+        "type": "text",
+        "label": "Email"
+      },
+      {
+        "name": "Password",
+        "type": "password",
+        "label": "Password"
+      },
+      {
+        "name": "Site",
+        "type": "text",
+        "label": "Site"
+      }
+    ]
+  }
+]
