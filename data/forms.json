@@ -5,22 +5,22 @@
     "fields": [
       {
         "name": "name",
-        "type": "text",
+        "ftype": "text",
         "label": "Full Name"
       },
       {
         "name": "Email",
-        "type": "text",
+        "ftype": "text",
         "label": "Email"
       },
       {
         "name": "Password",
-        "type": "password",
+        "ftype": "password",
         "label": "Password"
       },
       {
         "name": "Site",
-        "type": "text",
+        "ftype": "text",
         "label": "Site"
       }
     ]
